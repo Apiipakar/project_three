@@ -275,4 +275,7 @@ body {
   .content {
     width: 90%;
   }
+  .done h2 {
+    font-size: 14px;
+  }
 }
